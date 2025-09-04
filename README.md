@@ -6,43 +6,18 @@ I’m a mobile developer with 3+ years of iOS experience and 4 years in computer
 
 ### 🛠️ Tools I love working with
 
-<div align="leading">
+<p align="leading">
+  <img src="https://cdn.simpleicons.org/swift/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/firebase/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/xcode/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/kotlin/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/android/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/git/a9b1b4" width="44" height="44"/>
+  <img src="https://cdn.simpleicons.org/github/a9b1b4" width="44" height="44""/>
+  <img src="https://cdn.simpleicons.org/flutter/a9b1b4" width="44" height="44""/>
+  <img src="https://cdn.simpleicons.org/linux/a9b1b4" width="44" height="44""/>
+</p>
 
-  <!-- Swift -->
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-
-  <!-- SwiftUI -->
-  <img src="https://img.shields.io/badge/SwiftUI-0D1117?style=for-the-badge&logo=swift&logoColor=61DAFB" />
-
-  <!-- UIKit -->
-  <img src="https://img.shields.io/badge/UIKit-0D1117?style=for-the-badge&logo=swift&logoColor=F05138" />
-
-  <!-- Firebase -->
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-
-  <!-- Xcode -->
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" />
-
-  <!-- Kotlin -->
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  
-  <!-- Android -->
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Flutter -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
- 
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
-
-</div>
 ---
 
 ### 🚀 Continuously leveling up
