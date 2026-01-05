@@ -1,6 +1,6 @@
 ## 👋 Hello there!
 
-I’m a mobile developer with 3+ years of iOS experience and 4 years in computer systems. Passionate about learning, growing, and building elegant solutions that make a difference. I’m always exploring new ideas—whether it’s with Swift, hybrid tech, or diving into industry research.
+I’m a mobile developer with 4+ years of iOS experience and 5 years in computer systems. Passionate about learning, growing, and building elegant solutions that make a difference. I’m always exploring new ideas—whether it’s with Swift, hybrid tech, or diving into industry research.
 
 ---
 
