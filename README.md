@@ -1,2 +1,2 @@
 ## mobileDev
-[![Activity graph](https://activity-graph.herokuapp.com/graph?username=whoisarte)](https://github.com/whoisarte/github-readme-activity-graph)
+![Stats](https://ghstats.dev/api/card?username=whoisarte&theme=catppuccin&border_radius=12&custom_title=My+Stats&size=compact)
